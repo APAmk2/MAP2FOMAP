@@ -1,0 +1,4 @@
+CMakePresets.json
+out/*
+.vs/*
+BIN/*
